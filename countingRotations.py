@@ -2,6 +2,8 @@
 # Starter code for figuring out what color the sensor is seeing from the color wheel.
 # The readColor function doesn't work yet. That's your job.
 
+#sorry for the delay Leo - let's see if we can put this into the Java project today
+
 import time
 import board
 import busio
