@@ -30,7 +30,7 @@ while True:
         print("RED")
     elif(green_value > 22):
         print("GREEN")
-    elif(blue_value <= 11 and blue_value >= 10):
+    elif(blue_value <= 11 and blue_value >= 9):
         print("CYAN")
     elif(red_value <= 40 and green_value <= 22):
         print("YELLOW")
